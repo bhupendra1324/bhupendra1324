@@ -1,5 +1,5 @@
 # 💫 About Me:
-1.	🚀 Currently, I’m focused on crafting scalable Generative AI solutions tailored for enterprise needs. My goal is to empower developers across various stages of the software V-model, enhancing their efficiency and boosting productivity.<br>2.	📚 Exploring Kubernetes and CI/CD tools to master the art of deploying scalable applications in robust production environments.<br>3.	🤝 Always open to collaborating on impactful projects in Machine Learning, Computer Vision, and Generative AI. Let’s innovate together!<br>4.	🗨️ Feel free to chat with me about: Cricket 🏏, Artificial Intelligence 🤖, and my new obsession—perfumes!
+ 1.	🚀 Currently, I’m focused on crafting scalable Generative AI solutions tailored for enterprise needs. My goal is to empower developers across various stages of the software V-model, enhancing their efficiency and boosting productivity.<br>2.	📚 Exploring Kubernetes and CI/CD tools to master the art of deploying scalable applications in robust production environments.<br>3.	🤝 Always open to collaborating on impactful projects in Machine Learning, Computer Vision, and Generative AI. Let’s innovate together!<br>4.	🗨️ Feel free to chat with me about: Cricket 🏏, Artificial Intelligence 🤖, and my new obsession—perfumes!
 
 
 ## 🌐 Socials:
